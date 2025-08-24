@@ -1,0 +1,1 @@
+I used this repository to learn about Computer Vision and YOLO by creating a Object Detection Project.
